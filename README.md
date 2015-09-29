@@ -14,7 +14,7 @@ sudo pip install virtualenv
 
 Clone the project
 ```
-git clone -b stable https://github.com/Ketul-Patel/Pylot.git
+git clone https://github.com/christ-huytran/RedBelt-Review.git
 ```
 
 cd into the project and source the setup file
